@@ -1,0 +1,7 @@
+C:\Users\arlot\Desktop\lorenzoarlo_SHA256_Algorithm\lorenzoarlo_SHA256_Algorithm\bin\Debug\lorenzoarlo_SHA256_Algorithm.exe.config
+C:\Users\arlot\Desktop\lorenzoarlo_SHA256_Algorithm\lorenzoarlo_SHA256_Algorithm\bin\Debug\lorenzoarlo_SHA256_Algorithm.exe
+C:\Users\arlot\Desktop\lorenzoarlo_SHA256_Algorithm\lorenzoarlo_SHA256_Algorithm\bin\Debug\lorenzoarlo_SHA256_Algorithm.pdb
+C:\Users\arlot\Desktop\lorenzoarlo_SHA256_Algorithm\lorenzoarlo_SHA256_Algorithm\obj\Debug\lorenzoarlo_SHA256_Algorithm.csproj.AssemblyReference.cache
+C:\Users\arlot\Desktop\lorenzoarlo_SHA256_Algorithm\lorenzoarlo_SHA256_Algorithm\obj\Debug\lorenzoarlo_SHA256_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\arlot\Desktop\lorenzoarlo_SHA256_Algorithm\lorenzoarlo_SHA256_Algorithm\obj\Debug\lorenzoarlo_SHA256_Algorithm.exe
+C:\Users\arlot\Desktop\lorenzoarlo_SHA256_Algorithm\lorenzoarlo_SHA256_Algorithm\obj\Debug\lorenzoarlo_SHA256_Algorithm.pdb
